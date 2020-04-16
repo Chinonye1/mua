@@ -1,0 +1,27 @@
+body
+{
+	font-family: sans-serif;
+	color: #000000;
+	background: #FFFFFF;
+}
+.Personal-Profile-Webpage
+{
+	width: 600px;
+	margin: auto;
+	background: url(images.jpg);
+	box-shadow: 0 4px 10px 0 rgba(0,0,0,0.5);
+}
+.image-container
+{
+	position: relative;
+}
+.contact-form input[type="send"]:hover
+{
+	cursor: pointer;
+	background: #191970;
+}
+.contact-form input[type="message"];
+{
+	width: 20px;
+	height: 10px;
+}
